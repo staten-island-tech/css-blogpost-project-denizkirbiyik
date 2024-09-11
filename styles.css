@@ -1,11 +1,21 @@
 body {
     background-color: #CCCCCC;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: SUSE;
 }
 
-h1 {
+#big-title {
     font-size: 56px;
 }
+
 .center {
     text-align: center;
+}
+
+.card {
+    width: 800px;
+    background-color: #AAAAAA;
+    border-radius: 20px;
+    margin: auto;
+    border: 5px solid;
+    border-color: #1080A0;
 }
