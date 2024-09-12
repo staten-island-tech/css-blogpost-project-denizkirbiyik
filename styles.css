@@ -12,10 +12,20 @@ body {
 }
 
 .card {
-    width: 800px;
+    width: 1000px;
+    height: calc(100%, 170px);
     background-color: #AAAAAA;
     border-radius: 20px;
     margin: auto;
+    margin-top: 20px;
+    padding: 20px;
     border: 5px solid;
     border-color: #1080A0;
+    overflow:auto;
+}
+
+img {
+    display: block;
+    float: left;
+    width: 250px;
 }
